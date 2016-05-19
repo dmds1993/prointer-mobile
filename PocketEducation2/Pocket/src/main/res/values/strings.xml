@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PocketEducation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_formulario">Cadastro de Alunos</string>
+    <string name="title_activity_historico">Historico</string>
+    <string name="title_activity_notificacao">Notificacao</string>
+    <string name="title_activity_lista_de_tarefa">ListaDeTarefa</string>
+</resources>

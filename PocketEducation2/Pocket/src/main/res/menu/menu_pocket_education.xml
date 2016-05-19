@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.pocket.pocketeducation.PocketEducation" >
+
+    <item android:id="@+id/historico_atividades"
+        android:title="Hist"
+        app:showAsAction="always"/>
+    <item android:id="@+id/lista_alunos_notificacao"
+        android:title="Not"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/enviar_tarefas"
+        android:title="Enviar Tarefas"
+        android:icon="@drawable/ic_enviar"
+        app:showAsAction="always"/>
+</menu>
